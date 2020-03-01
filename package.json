@@ -3,14 +3,14 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node your-script.js"
-  },
-  "author": "abhinav",
-  "license": "ISC",
   "dependencies": {
     "node-telegram-bot-api": "^0.40.0",
     "request": "^2.88.2"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abhinav",
+  "license": "ISC"
 }
